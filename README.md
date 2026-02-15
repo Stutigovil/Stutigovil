@@ -1,153 +1,146 @@
-<h1 align="center">Hey, I'm Stuti Govil 👋</h1>
+<h1 align="center">Hey, I'm Stuti 👋</h1>
+
 <h3 align="center">
-Machine Learning Engineer | Research-Oriented Developer | Smart Manufacturing
+B.Tech Smart Manufacturing @ IIITDM Jabalpur
 </h3>
 
 <p align="center">
-Physics-Informed ML • Computer Vision • Time-Series • MLOps • AI for Manufacturing
+Research-driven ML Engineer • Physics-Informed Learning • AI for Manufacturing • Production ML
+</p>
+
+<p align="center">
+  <a href="mailto:stuti.govil38@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/stuti-govil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/StutiGovil">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://leetcode.com/sg38">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=StutiGovil&style=flat-square&color=blue" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🎯 Tech Stack & Expertise
 
-I am a **B.Tech undergraduate in Smart Manufacturing Engineering at IIITDM Jabalpur** with a strong focus on  
-**machine learning systems, physics-informed modeling, and AI-driven manufacturing applications**.
+<table align="center">
+<tr>
+<td align="center" width="25%">
 
-My work spans:
-- **Scientific ML & PINNs**
-- **Computer Vision for industrial automation**
-- **End-to-end ML systems deployed in production**
-- **Research-backed engineering (patents & publications)**
+### 🤖 Machine Learning
+PyTorch • TensorFlow  
+Scikit-learn • PINNs  
+Time-Series • NLP  
+Computer Vision
 
-I enjoy working at the intersection of **theory, data, and deployment** — translating models into reliable real-world systems.
+</td>
+<td align="center" width="25%">
 
----
+### 🧠 Scientific & Research ML
+Physics-Informed NN  
+Differential Constraints  
+Low-data Learning  
+Model Sensitivity Analysis
 
-## 🎓 Education
+</td>
+<td align="center" width="25%">
 
-**PDPM IIITDM Jabalpur**  
-Bachelor of Technology, Smart Manufacturing Engineering  
-**CPI:** 8.4  
-*Aug 2023 – Apr 2027*
+### 🏭 AI for Manufacturing
+Vision-based QC  
+Anomaly Detection  
+Industrial Time-Series  
+Automation Systems
 
-Relevant Coursework:
-- Data Structures & Algorithms
-- Linear Algebra
-- Probability & Statistics
-- DBMS, OOPS
+</td>
+<td align="center" width="25%">
 
----
+### ⚙️ MLOps & Systems
+FastAPI • Flask  
+Docker • Kubernetes  
+AWS • Triton  
+CI/CD Pipelines
 
-## 💼 Experience
-
-### **AGC Asia Pacific (Japan) — Data Analyst Intern**
-*Dec 2025 – Feb 2026 | Remote*
-
-- Analyzed **large-scale industrial time-series and tabular datasets** to detect defect patterns and performance anomalies  
-- Performed **EDA and feature engineering** to identify correlations between process parameters and quality metrics  
-- Communicated insights using **statistical indicators and visual summaries** to support decision-making
-
----
-
-### **Arealis Pvt. Ltd. — Machine Learning Intern**
-*Jun 2025 – Aug 2025 | Hybrid (Pune)*
-
-- Deployed **production-grade ML models** using **FastAPI, AWS EKS, and NVIDIA Triton**
-- Built **end-to-end MLOps pipelines** for data ingestion, model versioning, monitoring, and CI/CD-based retraining
-- Worked on **scalable inference systems** with real-world latency and reliability constraints
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧪 Research, Patents & Publications
+## 🧩 Tooling
 
-- **Patent:** *Automated Part Removal and Queuing Framework for FFF 3D Printing*
-- **Publication:**  
-  *Design and Development of an Automated Part Removal and Queuing System for FFF 3D Printing*  
-  **IMECE-India 2025 (Paper ID: IMECE-India2025-161316)**  
-  → Flask-based web system with real-time monitoring and alerts  
-  → Improved printing efficiency by **~35%**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,flask,fastapi,docker,kubernetes,aws,postgres,linux,git&theme=dark" />
+</p>
 
 ---
 
-## 🏆 Achievements
+## 🧪 Featured Work
 
-- 🥈 **2nd Place — Duality AI Track, HackByte 3.0 (IIITDMJ)**  
-  Built a **YOLOv8-based object detection system** for a simulated space-station environment  
-  (low light, occlusions, dynamic viewpoints)
+### 🔬 Physics-Informed Neural Networks (PINN)
+**Research Project | Manuscript in Preparation**
 
-- ⚔️ **LeetCode Knight Badge**  
-  - 350+ problems solved  
-  - Highest Rating: **1827**
+- Integrated **physical laws (ODE/PDE constraints)** directly into NN loss functions
+- Combined **sequence models + physics priors** for better generalization
+- Evaluated robustness to boundary and parameter variations
 
----
-
-## 🚀 Featured Projects
-
-### 🔬 Physics-Informed Neural Networks (PINN) for Scientific Time-Series
-**Research Project | Manuscript Under Preparation**
-
-- Designed **PINNs** by embedding **differential equation constraints** directly into the loss function
-- Combined **sequence models (RNN-based)** with physical priors to improve generalization in **low-data regimes**
-- Studied **sensitivity to boundary conditions and parameter variations**
-
-**Tech:** Python, PyTorch, NumPy, SciPy, RNNs  
-🔗 *Repository pinned below*
+**Tech:** PyTorch, NumPy, SciPy, RNNs  
+📌 *Pinned Repository*
 
 ---
 
-### 🏭 Automatic Part Removal & Queuing System (Patent-Backed)
-**Industrial Automation | Manufacturing AI**
+### 🏭 Automatic Part Removal & Queuing (Patent)
+**Patent-backed Industrial Automation System**
 
-- Built a **vision-based automated decision system** for post-print part removal in FFF 3D printing
-- Trained CNNs to classify visual states and trigger **system-level actions**
-- Developed a **full-stack web application** with real-time monitoring and alerts
+- Vision-based decision system for **FFF 3D printing**
+- CNN-driven defect/state detection with automated actuation
+- Improved manufacturing throughput by **~35%**
 
-**Tech:** Python, OpenCV, TensorFlow/Keras, Flask, React, SQLite, Django  
-🔗 *Repository pinned below*
+**Tech:** OpenCV, TensorFlow/Keras, Flask, React, SQLite  
+📌 *Pinned Repository*
 
 ---
 
-### 📰 News.ai — AI-Powered News Analysis Platform
-**NLP Application**
+### 📰 News.ai
+**AI-powered News Summarization & Fake News Detection**
 
-- Developed an **end-to-end AI system** for real-time news summarization and fake news detection
+- End-to-end NLP pipeline for real-time news analysis
 - Used **T5 (Hugging Face)** for abstractive summarization
-- Integrated ML models into a **web interface via APIs**
+- Deployed via APIs with interactive frontend
 
-**Tech:** Python, TensorFlow, Hugging Face, Flask, React  
-🔗 *Repository pinned below*
+**Tech:** TensorFlow, Hugging Face, Flask, React  
+📌 *Pinned Repository*
 
 ---
 
 ### 🧬 CGP Methylation Analysis
-**Bioinformatics / ML for Healthcare**
+**ML for Bioinformatics**
 
-- Applied machine learning techniques to analyze **CpG methylation patterns**
-- Focused on extracting biologically meaningful patterns from structured biological data
-- Explored feature-driven interpretations of epigenetic signals
+- Studied CpG methylation patterns using ML/statistical techniques
+- Extracted interpretable features from biological datasets
+- Focus on structure-aware modeling
 
 **Tech:** Python, ML, Statistical Analysis  
-🔗 *Repository pinned below*
+📌 *Pinned Repository*
 
 ---
 
-## 🛠️ Skills
+## 🏆 Highlights
 
-**Languages:**  
-Python, C++, JavaScript, SQL  
-
-**ML / AI:**  
-PyTorch, TensorFlow, Keras, Scikit-learn, Hugging Face, OpenCV  
-Computer Vision, NLP, Time-Series Modeling, PINNs  
-
-**Systems & Tools:**  
-AWS, Docker, Kubernetes, Git, Linux, PostgreSQL, SQLite  
-FastAPI, Flask, React  
+- 🥈 **2nd Place – Duality AI Track, HackByte 3.0**
+- 📜 **Patent + IMECE 2025 Publication**
+- ⚔️ **LeetCode Knight** (350+ problems, max rating 1827)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=StutiGovil&show_icons=true&theme=tokyonight" />
@@ -163,13 +156,14 @@ FastAPI, Flask, React
 
 ---
 
-## 📫 Contact
-
-- 📧 Email: **stuti.govil38@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/stuti-govil
-- 💻 GitHub: https://github.com/StutiGovil
-- 🧠 LeetCode: **sg38**
-
----
-
-⭐ *Pinned repositories highlight my research and production-grade ML work*
+```ts
+const researcher = {
+  name: "Stuti Govil",
+  role: "Machine Learning Engineer & Researcher",
+  focus: [
+    "Physics-Informed Learning",
+    "Industrial AI Systems",
+    "Production ML & MLOps"
+  ],
+  interests: ["Scientific ML", "Automation", "Applied Research"]
+};
