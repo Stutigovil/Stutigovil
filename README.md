@@ -1,24 +1,24 @@
 <h1 align="center">Hey, I'm Stuti 👋</h1>
 
 <h3 align="center">
-B.Tech Smart Manufacturing @ IIITDM Jabalpur
+B.Tech  @ IIITDM Jabalpur
 </h3>
 
 <p align="center">
-Research-driven ML Engineer • Physics-Informed Learning • AI for Manufacturing • Production ML
+Research-driven ML Engineer • Physics-Informed Learning • AI  • Gen AI • Production ML
 </p>
 
 <p align="center">
   <a href="mailto:stuti.govil38@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/stuti-govil">
+  <a href="https://www.linkedin.com/in/stuti-govil-49216028a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://github.com/StutiGovil">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://leetcode.com/sg38">
+  <a href="https://leetcode.com/sg_38">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
@@ -53,7 +53,7 @@ Model Sensitivity Analysis
 </td>
 <td align="center" width="25%">
 
-### 🏭 AI for Manufacturing
+### 🏭 AI
 Vision-based QC  
 Anomaly Detection  
 Industrial Time-Series  
@@ -136,7 +136,7 @@ CI/CD Pipelines
 
 - 🥈 **2nd Place – Duality AI Track, HackByte 3.0**
 - 📜 **Patent + IMECE 2025 Publication**
-- ⚔️ **LeetCode Knight** (350+ problems, max rating 1827)
+- ⚔️ **LeetCode Knight** (400+ problems, max rating 1827)
 
 ---
 
